@@ -1,0 +1,12 @@
+.container{
+    margin: 0 auto;
+    background-color: gray;
+    border: yellow 10px solid
+}
+button{
+    transition: 0.2s all ease-in-out;
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
